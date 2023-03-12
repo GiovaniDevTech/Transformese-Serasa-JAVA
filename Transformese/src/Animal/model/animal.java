@@ -2,7 +2,7 @@ package Animal.model;
 
 public class animal {
 
-	private String nome;
+    private String nome;
     private String raca;
     private char sexo;
     private int idade;
