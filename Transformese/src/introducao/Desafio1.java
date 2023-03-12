@@ -1,5 +1,6 @@
-package introducao;
+//*****DESAFIO******//
 
+package introducao;
 
 import java.util.Scanner;
 
@@ -58,6 +59,8 @@ public class Desafio1 {
 		}else if (num % 2 == 1) {
 			System.out.println("O número " + num + " é IMPAR");
 		}
+		
+		teclado.close();
 	}
 
 }
